@@ -5,5 +5,14 @@ A repository for resources in Kurdish Language
 
 تکایە لە کاتی بەکارهێنانی داتا و سەرچاوەکانی ئێرە، ئاماژە بە پڕۆژەکە بکە و ئەگەر کرا بەستەرێک لە پڕۆژەکەت بۆ ئێرە دابنێ. بۆ ئەوەی هەم خەڵکی دیکە پێی ئاشنابن و هەمیش ڕێز لە ماندووبوونی هەموو بەشداربووان بگیرێت.
 
-## Credit - بەشداربووان
- - [Barham A. Ahmed](https://www.facebook.com/Barham94)
+## Wordlists - لیستی وشەکان
+
+### 1. [KurdishWordList-Barham-A.-Ahmad.txt](Kurdish%20wordlist/KurdishWordList-Barham-A.-Ahmad.txt)
+پێکهاتووە لە داتای چەند فەرهەنگێک نزیکەی ٩٥ هەزار وشەی بێهاوتای تێدایە.
+
+Credit: [Barham A. Ahmed](https://www.facebook.com/Barham94) 
+
+### 2. [bot-ckb.wikipedia.org](Kurdish%20wordlist/bot-ckb.wikipedia.org.txt)
+
+وشەکانی ویکیپیدیای کوردیین کە بەهۆی بۆتێکەوە کۆکراونەتەوە. نزیکەی ١١٧ هەزار وشەی تێدایە. بەڵام پێویستی بە خاوێنکردنەوە هەیە.
+
