@@ -8,7 +8,7 @@ A repository for resources in Kurdish Language
 ## لیستی وشەکان
 
 ### 1. [KurdishWordList-Barham-A.-Ahmad.txt](Kurdish%20wordlist/KurdishWordList-Barham-A.-Ahmad.txt)
-پێکهاتووە لە داتای چەند فەرهەنگێک نزیکەی ٩٥ هەزار وشەی بێهاوتای تێدایە.
+پێکهاتووە لە داتای چەند فەرهەنگێک نزیکەی ٩٥ هەزار وشەی بێهاوتای تێدایە. بەڵام پیتی ناستانداردی تێدا بەکارهاتووە (کێشەی ک، بزوێنی کورت و هـ ) بۆیە پێویست دەکا پیتەکان جاکبکرێنەوە
 
 Credit: [Barham A. Ahmed](https://www.facebook.com/Barham94) 
 
