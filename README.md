@@ -15,7 +15,7 @@ Credit: [Barham A. Ahmed](https://www.facebook.com/Barham94)
 ### 2. [bot-ckb.wikipedia.org](Kurdish%20wordlist/bot-ckb.wikipedia.org.txt)
 
 وشەکانی ویکیپیدیای کوردیین کە بەهۆی بۆتێکەوە کۆکراونەتەوە. نزیکەی ١١٧ هەزار وشەی تێدایە. بەڵام پێویستی بە خاوێنکردنەوە هەیە.
-### 3. [allekok+bot-ckb.wikipidia.org+Barham A.Ahmed](Wordlist%20allekok%2Bbarham-a%2Bwikipedia.txt)
+### 3. [allekok+bot-ckb.wikipidia.org+Barham A.Ahmed](https://github.com/DevelopersTree/KurdishResources/blob/master/Kurdish%20wordlist/Wordlist%20allekok%2Bbarham-a%2Bwikipedia.txt)
 پێکدێت  لە سەرچاوەی نوسینیەکانی ناو ماڵپەری ئاڵەکۆک تێکەڵکراوە بە سەرچاوەی ١ و ٢ م کە لێرەدا ئاماژەی پێکراوە نزیکەی ٣٠٠،٠٠٠ وشە و دەستەواژەی تێدایە 
 ## هەندێک بیرۆکە بۆ خاوێنکردنەوەی لیستەکان
 دەتوانین بە هۆی چەند یاسایەکی سادەی ڕێزمانی کوردی لیستەکان تا ڕاددەیەکی باش خاوێن بکەینەوە ئەگەر هەر بیرۆکەیەکی دیکەت هەیە، بۆمانی بنێرە.
