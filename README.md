@@ -5,6 +5,9 @@ A repository for resources in Kurdish Language
 
 تکایە لە کاتی بەکارهێنانی داتا و سەرچاوەکانی ئێرە، ئاماژە بە پڕۆژەکە بکە و ئەگەر کرا بەستەرێک لە پڕۆژەکەت بۆ ئێرە دابنێ. بۆ ئەوەی هەم خەڵکی دیکە پێی ئاشنابن و هەمیش ڕێز لە ماندووبوونی هەموو بەشداربووان بگیرێت.
 
+## [Corpus](Corpus)
+چەند کۆرپەسێکی تێدایە کە بە کڕاولکردنی وێبسایتە کوردییەکان کۆکراونەتەوە.
+
 ## لیستی وشەکان
 
 ### 1. [KurdishWordList-Barham-A.-Ahmad.txt](Kurdish%20wordlist/KurdishWordList-Barham-A.-Ahmad.txt)
