@@ -1,3 +1,4 @@
+<div dir="rtl">
 # Kurdish Resources
 A repository for resources in Kurdish Language
 
@@ -43,3 +44,4 @@ Credit: [Barham A. Ahmed](https://www.facebook.com/Barham94)
 ## لینکە بەسوودەکان
  - [ستانداردی یونیکۆدی کوردی](http://unicode.ekrg.org/ku_unicodes.html)
 
+</div>
